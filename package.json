@@ -1,0 +1,25 @@
+{
+  "name": "at_fl",
+  "version": "1.0.0",
+  "description": "Cadastro de equipe",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nahmi07/AT_FL.git"
+  },
+  "author": "Yasmin Nascimento Guica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nahmi07/AT_FL/issues"
+  },
+  "homepage": "https://github.com/Nahmi07/AT_FL#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1"
+  }
+}
